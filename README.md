@@ -20,7 +20,7 @@ By the default setting, `Hyper` is mapped to `変換`
 
 ### Cursor (Mapped with XKB)
 | Pushed keys | Mapped Keys | Like | Usage |
-| ---- | ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | Hyper + Shift + b | Ctrl + ← | Vim | Move cursor to the head of word |
 | Hyper + Shift + w | Ctrl + Shift + → | Vim | Secelt the range from current cursor to the head of word |
 | Hyper + w | Ctrl + → | Vim | Move cursor to the end of word |
@@ -29,8 +29,8 @@ By the default setting, `Hyper` is mapped to `変換`
 | Hyper + Shift + o | ↑ -> End -> Enter | Vim | Make a line above current cursor |
 
 #### Shortcut (Mapped with XKB)
-| Pushed keys | Mapped Keys | Like | Usage | Tool |
-| ---- | ---- | ---- | ---- | ---- |
+| Pushed keys | Mapped Keys | Like | Usage |
+| ---- | ---- | ---- | ---- |
 | Hyper + u | Ctrl + z | Vim | Undo |
 | Hyper + Ctrl + r | Ctrl + Shift + z | Vim | Redo |
 | Hyper + y | Ctrl + c | Vim | Copy |
