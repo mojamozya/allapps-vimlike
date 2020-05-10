@@ -1,0 +1,3 @@
+xkb_compatibility "hyper" {
+  interpret Hyper_Mode { action = SetMods(modifiers=Mod5); };
+};

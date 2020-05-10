@@ -1,0 +1,16 @@
+xkb_types "hyper" {
+  type "HYPER" {
+    modifiers = Shift+Mod5;
+    map[Shift] = Level2;
+    map[Mod5] = Level3;
+    map[Shift+Mod5] = Level3;
+
+    preserve[Shift+Mod5] = Shift;
+
+    level_name[Level1] = "Base";
+    level_name[Level2] = "Shift";
+    level_name[Level3] = "Hyper";
+  };
+};
+
+

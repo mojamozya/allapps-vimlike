@@ -1,0 +1,31 @@
+{
+    "usageCount": 13, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "Hyper_Shift_y", 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": "y", 
+        "modifiers": [
+            "<hyper>", 
+            "<shift>"
+        ]
+    }, 
+    "modes": [
+        3
+    ], 
+    "showInTrayMenu": false, 
+    "filter": {
+        "regex": null, 
+        "isRecursive": false
+    }, 
+    "type": "script", 
+    "store": {}
+}

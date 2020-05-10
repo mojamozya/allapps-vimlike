@@ -1,0 +1,7 @@
+xkb_keymap {
+	xkb_keycodes  { include "evdev+aliases(qwerty)"	};
+	xkb_types     { include "complete+mytypes(hyper)"	};
+	xkb_compat    { include "complete+mycompat(hyper)"	};
+	xkb_symbols   { include "pc+jp+us:2+inet(evdev)+ctrl(nocaps)+mysymbols(modkeys)"	};
+	xkb_geometry  { include "pc(pc105)"	};
+};
