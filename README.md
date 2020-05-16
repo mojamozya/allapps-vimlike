@@ -14,6 +14,7 @@ By the default setting, `Hyper` is mapped to `変換`
 | Hyper + l | → | Vim | Cursor key |
 | Hyper + ; | BackSpace | Original | Backspace |
 | Hyper + : | Delete | Original | Delete |
+| Hyper + x | Delete | Original | Delete |
 | Hyper + a | Home | Emacs | Move cursor to the head of line |
 | Hyper + e | End | Emacs | Move cursor to the end of line |
 | Hyper + m | Enter | Emacs | Enter key |
