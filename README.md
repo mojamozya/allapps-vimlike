@@ -21,7 +21,7 @@ By the default setting, `Hyper` is mapped to `変換`
 | Hyper + Ctrl + [ | Esc | Vim | Esc (Mapped with AutoKey) |
 | Hyper + Ctrl + @ | Esc | Vim | Esc (Mapped with AutoKey) |
 
-### Cursor (Mapped with XKB)
+### Cursor (Mapped with Autokey)
 | Pushed keys | Mapped Keys | Like | Usage |
 | ---- | ---- | ---- | ---- |
 | Hyper + Shift + b | Ctrl + ← | Vim | Move cursor to the head of word |
@@ -31,7 +31,7 @@ By the default setting, `Hyper` is mapped to `変換`
 | Hyper + o | End -> Enter | Vim | Make a line below current cursor |
 | Hyper + Shift + o | ↑ -> End -> Enter | Vim | Make a line above current cursor |
 
-#### Shortcut (Mapped with XKB)
+#### Shortcut (Mapped with Autokey)
 | Pushed keys | Mapped Keys | Like | Usage |
 | ---- | ---- | ---- | ---- |
 | Hyper + u | Ctrl + z | Vim | Undo |
