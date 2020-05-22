@@ -37,7 +37,9 @@ By the default setting, `Hyper` is mapped to `変換`
 | Hyper + u | Ctrl + z | Vim | Undo |
 | Hyper + Ctrl + r | Ctrl + Shift + z | Vim | Redo |
 | Hyper + y | Ctrl + c | Vim | Copy |
+| Hyper + Ctrl + d | Home -> Shift + End -> Ctrl + c -> ← | Vim | Cut |
 | Hyper + Shift + y | Ctrl + End -> Ctrl + c -> → | Vim | Copy the range from current cursor to the end of line |
 | Hyper + d | Ctrl + x | Vim | Cut |
+| Hyper + Ctrl + d | Home -> Shift + End -> Ctrl + x -> Delete | Vim | Cut |
 | Hyper + Shift + d | Ctrl + Shift + End -> Ctrl + x | Vim | Cut the range from current cursor to the end of line |
 | Hyper + p | Ctrl + v | Vim | Paste |
