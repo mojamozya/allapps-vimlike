@@ -8,6 +8,8 @@ xkb_symbols "modkeys" {
     // [変換] -> Hyper_L
     key <HENK>   {      [ Hyper_L               ]       };
 
+    // [Fn] -> Super_L
+    
 
     // HYPER関連(物理的にはカタカナひらがなローマ字キー)
     modifier_map Mod5 { Hyper_L };
@@ -23,6 +25,5 @@ xkb_symbols "modkeys" {
     key <AC11> { type="HYPER", [ colon, asterisk, Delete ] };
   
     key <AB02> { type="HYPER", [ x, X, Delete        ] };
-    key <AB07> { type="HYPER", [ m, M, Return ] };
-
+    
 };
