@@ -1,6 +1,7 @@
 xkb_symbols "modkeys" {
     // [半角/全角キー] -> Super_L
-    key <HZTG>   {      [ Super_L               ]       };
+    //key <HZTG>   {      [ Super_L               ]       };
+    key <HZTG>   {      [ Escape               ]       };
 
     // [カタカナひらがなローマ字] -> 無変換
     key <HKTG>   {      [ Henkan                ]       };

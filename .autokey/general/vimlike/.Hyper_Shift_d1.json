@@ -5,7 +5,7 @@
     "modes": [
         3
     ],
-    "usageCount": 8,
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -22,7 +22,7 @@
             "<hyper>",
             "<shift>"
         ],
-        "hotKey": "d"
+        "hotKey": "x"
     },
     "filter": {
         "regex": null,

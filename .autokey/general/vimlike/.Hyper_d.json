@@ -1,30 +1,30 @@
 {
-    "usageCount": 0, 
-    "omitTrigger": false, 
-    "prompt": false, 
-    "description": "Hyper_d", 
-    "abbreviation": {
-        "wordChars": "[\\w]", 
-        "abbreviations": [], 
-        "immediate": false, 
-        "ignoreCase": false, 
-        "backspace": true, 
-        "triggerInside": false
-    }, 
-    "hotkey": {
-        "hotKey": "d", 
-        "modifiers": [
-            "<hyper>"
-        ]
-    }, 
+    "type": "script",
+    "description": "Hyper_d",
+    "store": {},
     "modes": [
         3
-    ], 
-    "showInTrayMenu": false, 
+    ],
+    "usageCount": 0,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<hyper>"
+        ],
+        "hotKey": "d"
+    },
     "filter": {
-        "regex": null, 
+        "regex": null,
         "isRecursive": false
-    }, 
-    "type": "script", 
-    "store": {}
+    }
 }
